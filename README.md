@@ -1,6 +1,8 @@
 # ASTRO RUN — Portal Oficial y Videojuego Endless Runner 3D
 
-
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;./imagenes/astro_accion.webp&quot; alt=&quot;ASTRO RUN - Vista principal del robot explorador&quot; width=&quot;260&quot;&gt;
+&lt;/p&gt;
 
 **ASTRO RUN** es un videojuego de carrera infinita en tres dimensiones (*Endless Runner 3D*) desarrollado en **Unity 6000.6.0f1** y publicado en la web mediante **WebGL 2.0**, acompañado de su portal interactivo oficial de divulgación técnica y promoción.
 
@@ -10,9 +12,9 @@ El jugador toma el control de **ASTRO**, un robot explorador universitario que a
 
 | Campo | Detalle |
 | :--- | :--- |
-| **Creador y Desarrollador** | **José Alejandro Salazar Quiroga**|
+| **Creador y Desarrollador** | **José Alejandro Salazar Quiroga** |
 | **Institución Académica** | **Universidad Privada del Valle** |
-| **Asignatura** | Game Development|
+| **Asignatura** | Game Development |
 | **Motor y Tecnología** | Unity 6000.6.0f1 · Compilación WebGL 2.0 · Portal en HTML5, CSS3 y JavaScript |
 | **Género** | Endless Runner 3D · Arcade de reflejos y esquiva en tercera persona |
 
@@ -39,7 +41,7 @@ El jugador toma el control de **ASTRO**, un robot explorador universitario que a
 La misión de **ASTRO RUN** se desarrolla a través de dos regiones del sistema solar conectadas en una misma travesía continua:
 
 1. **Fase 01 — Órbita de la Tierra (`0 metros` a `500 metros`)**: El recorrido inicia sobre una plataforma orbital metálica iluminada con luces azules, con la curvatura terrestre visible en el horizonte. Durante este tramo, ASTRO debe saltar sobre satélites de mantenimiento bajos y agacharse ante cohetes que cruzan a la altura de la cabeza.
-2. **Fase 02 — Anillos de Saturno (a partir de `500 metros`)**: Al superar los 600 metros de distancia, el escenario se transforma hacia Saturno y su sistema de anillos, adoptando tonos minerales y luces cálidas. Las amenazas evolucionan hacia rocas de los anillos (obstáculos bajos) y meteoritos suspendidos (obstáculos elevados).
+2. **Fase 02 — Anillos de Saturno (a partir de `500 metros`)**: Al superar los 500 metros de distancia, el escenario se transforma hacia Saturno y su sistema de anillos, adoptando tonos minerales y luces cálidas. Las amenazas evolucionan hacia rocas de los anillos (obstáculos bajos) y meteoritos suspendidos (obstáculos elevados).
 
 | Etapa | Acción Narrativa | Comunicación en Pantalla |
 | :--- | :--- | :--- |
