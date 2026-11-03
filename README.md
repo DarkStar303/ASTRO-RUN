@@ -18,13 +18,6 @@ El jugador toma el control de **ASTRO**, un robot explorador universitario que a
 | **Motor y Tecnología** | Unity 6000.6.0f1 · Compilación WebGL 2.0 · Portal en HTML5, CSS3 y JavaScript |
 | **Género** | Endless Runner 3D · Arcade de reflejos y esquiva en tercera persona |
 
-## Galería del Personaje Principal (`ASTRO`)
-
-| Vista Frontal | Vista de Perfil | Vista Posterior | Vista en Acción |
-| :---: | :---: | :---: | :---: |
-|  |  |  |  |
-| **Casco y Visor Frontal** | **Mochila Propulsora** | **Fuselaje Posterior** | **Postura de Exploración** |
-
 ## Personaje Principal y Dirección Artística
 
 - **Concepto visual**: Robot explorador modelado en tres dimensiones bajo una dirección artística de ciencia ficción estilo *Cartoon* con geometrías redondeadas, silueta legible y alto contraste frente al entorno estelar.
